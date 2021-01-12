@@ -13,7 +13,7 @@ export default class Keypad extends Component {
   
   render(){
     return (
-      <input keyUp={handleKeyUp} />
+      <input keyUp={this.handleKeyUp} />
       )
   }
 }
