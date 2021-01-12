@@ -7,7 +7,7 @@ export default class Keypad extends Component {
     
   }
   
-  handleKeyUp = (value)=>{
+  handleKeyUp = () =>{
     console.log('Entering password....')
   }
   
