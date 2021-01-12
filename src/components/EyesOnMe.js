@@ -2,7 +2,7 @@
 import React, {Component} from 'react';
 
 
-export default class EyesOnMe extends Components {
+export default class EyesOnMe extends Component {
   
   focus = () => {
     
